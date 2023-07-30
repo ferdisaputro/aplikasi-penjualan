@@ -1,0 +1,4 @@
+1. Buat database baru dengan nama "aplikasi_penjualan"
+2. Buka database yang barusan di buat,
+3. Masuk menu import -> pilih database yang satu folder dengan nama "aplikasi_penjualan.sql" -> go
+4. Jalankan program laravel pada folder "aplikasi_penjualan"
